@@ -1,2 +1,2 @@
 # web-typography-practice
-Practice implementing both internally and externally linked fonts.
+Practice CSS styling with margin and paddings and implementing both internally and externally linked fonts.
