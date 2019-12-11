@@ -5,28 +5,9 @@ html, body {
 h1,h2,h3,h4,h5,h6 {
     margin-top: 0;
 }
-.wrapper {
-    background-color: rgba(255,255,255,0.75);
-    background-image: url(images/subtle-white.jpeg);
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    background-size: cover;
-    background-blend-mode: overlay;
-}
 body > * {
     box-sizing: border-box;
     font-size: 1rem;
-}
-.container {
-    margin: 0 auto;
-    padding: 30px;
-    max-width: 1200px;
-}
-section { 
-    margin-bottom: 90px;
-}
-.welcome {
-    margin-top: 120px;
 }
 .items {
     display: flex;
@@ -34,8 +15,6 @@ section {
 }
 .item {
     background: white;
-    margin: 10px 0;
-    padding: 20px;
     border-radius: 3px;
 }
 footer {
